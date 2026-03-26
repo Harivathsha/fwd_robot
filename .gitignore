@@ -1,0 +1,9 @@
+build/
+install/
+devel/
+log/
+*.bag
+__pycache__/
+*.swp
+.vscode/
+src/ml_data/
